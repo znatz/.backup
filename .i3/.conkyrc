@@ -1,0 +1,19 @@
+background        no
+out_to_console 	  yes
+out_to_x	  no
+update_interval	  2
+total_run_times	  0
+short_units	  yes
+pad_percents	  3
+
+override_utf8_locale yes
+
+TEXT
+
+CPU: ${cpu}% | \
+◎ : ${fs_used}+${fs_free}=${fs_size} | \
+■ : ${mem}/${memmax}=${memperc}% | \
+β: ${battery_short BAT1} | \
+${time %F %T} | \
+Vol: ${exec amixer -c 0 get Master | awk '/\[*%\]/ {print $4}'}
+#${execi 60 ./weather.sh 60532} | \

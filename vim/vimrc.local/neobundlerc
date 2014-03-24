@@ -1,0 +1,134 @@
+ set nocompatible               " Be iMproved
+
+ if has('vim_starting')
+   set runtimepath+=~/.vim/bundle/neobundle.vim/
+ endif
+
+ call neobundle#rc(expand('~/.vim/bundle/'))
+
+ " Let NeoBundle manage NeoBundle
+ NeoBundleFetch 'Shougo/neobundle.vim'
+
+ " Recommended to install
+ " After install, turn shell ~/.vim/bundle/vimproc, (n,g)make -f your_machines_makefile
+ NeoBundle 'Shougo/vimproc'
+
+ " My Bundles here:
+ "
+ " Note: You don't set neobundle setting in .gvimrc!
+ " Original repos on github
+ NeoBundle 'tpope/vim-fugitive'
+ NeoBundle 'Lokaltog/vim-easymotion'
+ NeoBundle 'rstacruz/sparkup', {'rtp': 'vim/'}
+ NeoBundle 'scrooloose/nerdtree'
+ " vim-scripts repos
+ NeoBundle 'L9'
+ " NeoBundle 'FuzzyFinder'
+ NeoBundle 'rails.vim'
+ NeoBundle 'itchyny/lightline.vim'
+ " NeoBundle 'alpaca-tc/alpaca_powertabline'
+ " NeoBundle 'Lokaltog/powerline', { 'rtp' : 'powerline/bindings/vim'}
+ " Non github repos
+ NeoBundle 'git://git.wincent.com/command-t.git'
+ " gist repos
+ " NeoBundle 'gist:Shougo/656148', {
+ "      \ 'name': 'everything.vim',
+ "      \ 'script_type': 'plugin'}
+ " Non git repos
+ " NeoBundle 'http://svn.macports.org/repository/macports/contrib/mpvim/'
+ " NeoBundle 'https://bitbucket.org/ns9tks/vim-fuzzyfinder'
+ NeoBundle 'mattn/emmet-vim'
+
+ " ...
+
+ filetype plugin indent on     " Required!
+ "
+ " Brief help
+ " :NeoBundleList          - list configured bundles
+ " :NeoBundleInstall(!)    - install(update) bundles
+ " :NeoBundleClean(!)      - confirm(or auto-approve) removal of unused bundles
+
+ " Installation check.
+ NeoBundleCheck
+
+ " ----------------------------------------------------------
+ " {{{
+" NeoBundle 'Shougo/vimproc', {
+"       \ 'build' : {
+"       \     'mac' : 'make -f make_mac.mak',
+"       \     'unix' : 'make -f make_unix.mak',
+"       \    },
+"       \ }
+
+if has("lua")
+  NeoBundleLazy 'Shougo/neocomplete', { 'autoload' : {
+        \   'insert' : 1,
+        \ }}
+else
+  NeoBundleLazy 'Shougo/neocomplete', {
+        \ 'autoload' : {
+        \   'insert' : 1,
+        \ },
+        \ }
+endif
+
+NeoBundleLazy 'Shougo/neosnippet', {
+      \ 'autoload' : {
+      \   'commands' : ['NeoSnippetEdit', 'NeoSnippetSource'],
+      \   'filetypes' : 'snippet',
+      \   'insert' : 1,
+      \   'unite_sources' : ['snippet', 'neosnippet/user', 'neosnippet/runtime'],
+      \ }}
+
+NeoBundle 'tpope/vim-rails', { 'autoload' : {
+      \ 'filetypes' : ['haml', 'ruby', 'eruby'] }}
+
+NeoBundleLazy 'alpaca-tc/vim-endwise.git', {
+      \ 'autoload' : {
+      \   'insert' : 1,
+      \ }}
+
+NeoBundleLazy 'edsono/vim-matchit', { 'autoload' : {
+      \ 'filetypes': 'ruby',
+      \ 'mappings' : ['nx', '%'] }}
+
+NeoBundleLazy 'basyura/unite-rails', {
+      \ 'depends' : 'Shougo/unite.vim',
+      \ 'autoload' : {
+      \   'unite_sources' : [
+      \     'rails/bundle', 'rails/bundled_gem', 'rails/config',
+      \     'rails/controller', 'rails/db', 'rails/destroy', 'rails/features',
+      \     'rails/gem', 'rails/gemfile', 'rails/generate', 'rails/git', 'rails/helper',
+      \     'rails/heroku', 'rails/initializer', 'rails/javascript', 'rails/lib', 'rails/log',
+      \     'rails/mailer', 'rails/model', 'rails/rake', 'rails/route', 'rails/schema', 'rails/spec',
+      \     'rails/stylesheet', 'rails/view'
+      \   ]
+      \ }}
+
+" NeoBundleLazy 'alpaca-tc/unite-rails_best_practices', {
+"       \ 'depends' : 'Shougo/unite.vim',
+"       \ 'build' : {
+"       \    'mac': 'gem install rails_best_practices',
+"       \    'unix': 'gem install rails_best_practices',
+"       \ },
+"       \ 'autoload': {
+"       \   'unite_sources': 'rails_best_practices'
+"       \ }}
+
+"	NeoBundleLazy 'taka84u9/vim-ref-ri', {
+"	      \ 'depends': ['Shougo/unite.vim', 'thinca/vim-ref'],
+"	      \ 'autoload': { 'filetypes': g:my.ft.ruby_files } }
+
+NeoBundleLazy 'alpaca-tc/neorspec.vim', {
+      \ 'depends' : ['alpaca-tc/vim-rails', 'tpope/vim-dispatch'],
+      \ 'autoload' : {
+      \   'commands' : ['RSpec', 'RSpecAll', 'RSpecCurrent', 'RSpecNearest', 'RSpecRetry']
+      \ }}
+
+NeoBundleLazy 'alpaca-tc/alpaca_tags', {
+      \ 'depends': 'Shougo/vimproc',
+      \ 'autoload' : {
+      \   'commands': ['AlpacaTagsUpdate', 'AlpacaTagsSet', 'AlpacaTagsBundle']
+      \ }}
+
+" }}}

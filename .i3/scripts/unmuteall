@@ -1,0 +1,6 @@
+#!/bin/bash
+for i in Master Headphone PCM Front Surround Center LFE Side; 
+do
+  amixer -c 0 set "$i" playback unmute
+done &>/dev/null
+
