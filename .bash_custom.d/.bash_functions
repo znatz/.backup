@@ -94,6 +94,9 @@ ejectmyusb(){
 	echo 'udisks --detach /dev/sdb'
 	udisks --detach /dev/sdb
 }
+playmovie(){
+	nohup mplayer $1 &
+}
 colormycommand()(set -o pipefail;"$@" 2>&1>&3|sed $'s,.*,\e[31m&\e[m,'>&2)3>&1
 export MOZILLA_FIVE_HOME=/usr/lib/firefox
 PATH="$PATH":$HOME/mycommand

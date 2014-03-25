@@ -7,6 +7,11 @@ http://www.faqs.org/docs/Linux-HOWTO/Bash-Prompt-HOWTO.html
 https://github.com/cmus/cmus/blob/master/Doc/cmus-tutorial.txt#L190
 <und>Latest PHP5 & fbcmd
 http://fbcmd.dtompkins.com/installation
+<und>Mutt
+http://iishikawa.s371.xrea.com/note/mutt.html#id2405814
+http://www.bartbania.com/index.php/consolify-your-gmail-with-mutt/
+<und>Mplayer2
+http://crunchbang.org/forums/viewtopic.php?id=20178
 <und>Java
 Installed through
 http://www.webupd8.org/2012/01/install-oracle-java-jdk-7-in-ubuntu-via.html
@@ -14,7 +19,8 @@ changed java security in /usr/lib/jvm/java-8-oracle/bin/ControlPanel
 <und>Installed
 | rvm | ruby | bundler | vim | nvm | node | java |
 | gimp| skype| inkscape|  eclipse  | playonlinux | 
-| t | newsbeuter |
+| t | newsbeuter | ranger | mutt | mplayer2 |
+| dwb | links2 |
 | bower |
 | virtualbox | vagrant | boot2docker |
 |   chrome   | brackets| <- brakets accepts only chrome
