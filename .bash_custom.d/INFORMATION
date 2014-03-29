@@ -12,19 +12,22 @@ http://iishikawa.s371.xrea.com/note/mutt.html#id2405814
 http://www.bartbania.com/index.php/consolify-your-gmail-with-mutt/
 <und>Mplayer2
 http://crunchbang.org/forums/viewtopic.php?id=20178
+<und>Dwb
+yy yank current page URL
 <und>Java
 Installed through
 http://www.webupd8.org/2012/01/install-oracle-java-jdk-7-in-ubuntu-via.html
 changed java security in /usr/lib/jvm/java-8-oracle/bin/ControlPanel
 <und>Installed
-| rvm | ruby | bundler | vim | nvm | node | java |
+| rvm | ruby | bundler | vim | nvm | node | java | perlbrew |
 | gimp| skype| inkscape|  eclipse  | playonlinux | 
-| t | newsbeuter | ranger | mutt | mplayer2 |
-| dwb | links2 |
+| t | newsbeuter | ranger | mutt | mplayer2 | rxvt-unicode-256color |
+| tty-clock | mps-youtube |
+| dwb | links2 | youtube-dl | gnuplot-x11 |
 | bower |
 | virtualbox | vagrant | boot2docker |
 |   chrome   | brackets| <- brakets accepts only chrome
 | codeblocks | openFrameworks | 
 |     cpanm  |  carton | plack|
 |  android sdk  | javafx |
-|   awesome  | i3 | conky | cmus | xfce4-screenshooter |
+| i3 | conky | cmus | xfce4-screenshooter |

@@ -1,4 +1,11 @@
+# perlbrew
+source ~/perl5/perlbrew/etc/bashrc
+
+# Setup dir color thems
+eval `dircolors /home/znatz/.config/dircolor_themes/dircolors-solarized/dircolors.256dark`
+
 # Setup NVM
 source ~/.nvm/nvm.sh
+
 # Setup RVM
 source /home/znatz/.rvm/scripts/rvm

@@ -1,3 +1,6 @@
+if [ $TERM == rxvt-unicode-256color ]; then
+	return 0
+fi
 # Text color variables
 txtund=$(tput sgr 0 1)          # Underline
 txtbld=$(tput bold)             # Bold

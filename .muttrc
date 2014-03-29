@@ -8,6 +8,7 @@ set folder = "imaps://imap.gmail.com:993"
 set spoolfile = "+INBOX"
 set postponed ="+[Google Mail]/Drafts"
 set trash = "+[Google Mail]/Trash"
+mailboxes $spoolfile $postponed $trash "+[Google Mail]/Spam"
 # set any_label = "+[Google Mail]/any_label"
 
 # LOCAL FOLDERS FOR CACHED HEADERS AND CERTIFICATES
@@ -25,7 +26,19 @@ set imap_keepalive = 900
 
 bind editor <space> noop
 macro index gi "<change-folder>=INBOX<enter>" "Go to inbox"
-macro index ga "<change-folder>=[Google Mail]/All Mail<enter>" "Go to all mail"
+macro index ga "<change-folder>=[Google Mail]/すべてのメール<enter>" "Go to all mail"
 macro index gs "<change-folder>=[Google Mail]/Sent Mail<enter>" "Go to Sent Mail"
 macro index gd "<change-folder>=[Google Mail]/Drafts<enter>" "Go to drafts"
+macro index gm "<change-folder>=[Google Mail]/迷惑メール/<enter>" "迷惑メールにいくぜ"
+
+# Sidebar
+set sidebar_visible = yes
+macro index b '<enter-command>toggle sidebar_visible<enter><refresh>'
+macro pager b '<enter-command>toggle sidebar_visible<enter><redraw-screen>'
+bind index,pager \CP sidebar-prev
+bind index,pager \CN sidebar-next
+bind index,pager \CO sidebar-open
+
+# Mailbox
+set imap_check_subscribed
 

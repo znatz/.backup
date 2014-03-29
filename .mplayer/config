@@ -1,2 +1,3 @@
 # Write your default config options here!
 really-quiet="1"
+nolirc="1"

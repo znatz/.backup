@@ -1,0 +1,15 @@
+VirtualBox GUI VM Selector Window 4.3.8 r92456 linux.amd64 (Feb 25 2014 18:07:10) release log
+00:00:02.353271 Log opened 2014-03-17T09:23:52.223579000Z
+00:00:02.353273 Build Type: release
+00:00:02.353276 OS Product: Linux
+00:00:02.353278 OS Release: 3.13.6-031306-generic
+00:00:02.353279 OS Version: #201403070154 SMP Fri Mar 7 06:55:03 UTC 2014
+00:00:02.353304 DMI Product Name: Aspire V3-571
+00:00:02.353315 DMI Product Version: V1.07
+00:00:02.353414 Host RAM: 3793MB total, 2729MB available
+00:00:02.353419 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:02.353420 Process ID: 2700
+00:00:02.353421 Package type: LINUX_64BITS_UBUNTU_13_04
+00:00:02.371892 UIMediumEnumerator: Medium-enumeration started...
+00:00:03.431904 UIMediumEnumerator: Medium-enumeration finished!
+00:00:03.581895 Failed to open "/dev/vboxdrv", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE

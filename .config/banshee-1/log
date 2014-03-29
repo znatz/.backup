@@ -1,0 +1,55 @@
+exec -a banshee mono  /usr/lib/banshee/Banshee.exe    --redirect-log --play-enqueued
+
+[Info  11:13:52.951] Running Banshee 2.6.1: [Ubuntu Saucy Salamander (development branch) (linux-gnu, x86_64) @ 2013-06-05 17:04:07 UTC]
+
+(Banshee:2180): GLib-GObject-WARNING **: attempting to add an interface (AtkComponent) to class (__gtksharp_49_Hyena_Gui_BaseWidgetAccessible) after class_init
+
+(Banshee:2180): GLib-GObject-WARNING **: attempting to add an interface (AtkTable) to class (__gtksharp_50_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_TrackInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:2180): GLib-GObject-WARNING **: attempting to add an interface (AtkSelection) to class (__gtksharp_50_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_TrackInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:2180): GLib-GObject-WARNING **: attempting to add an interface (AtkTable) to class (__gtksharp_56_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_Database_QueryFilterInfo+601+5b+5bSystem_String+2c+20mscorlib+2c+20Version+3d4_0_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3db77a5c561934e089+5d+5d+2c+20Banshee_Services+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:2180): GLib-GObject-WARNING **: attempting to add an interface (AtkSelection) to class (__gtksharp_56_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_Database_QueryFilterInfo+601+5b+5bSystem_String+2c+20mscorlib+2c+20Version+3d4_0_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3db77a5c561934e089+5d+5d+2c+20Banshee_Services+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:2180): GLib-GObject-WARNING **: attempting to add an interface (AtkTable) to class (__gtksharp_62_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_ArtistInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:2180): GLib-GObject-WARNING **: attempting to add an interface (AtkSelection) to class (__gtksharp_62_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_ArtistInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:2180): GLib-GObject-WARNING **: attempting to add an interface (AtkTable) to class (__gtksharp_68_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_YearInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:2180): GLib-GObject-WARNING **: attempting to add an interface (AtkSelection) to class (__gtksharp_68_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_YearInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:2180): GLib-GObject-WARNING **: attempting to add an interface (AtkTable) to class (__gtksharp_74_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_AlbumInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:2180): GLib-GObject-WARNING **: attempting to add an interface (AtkSelection) to class (__gtksharp_74_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_AlbumInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+[Warn  11:13:55.516] Caught an exception - GLib.GException: Icon 'process-working' not present in theme (in `gtk-sharp')
+  at Gtk.IconTheme.LoadIcon (System.String icon_name, Int32 size, IconLookupFlags flags) [0x00000] in <filename unknown>:0 
+  at Banshee.Gui.Widgets.TaskStatusIcon..ctor () [0x00000] in <filename unknown>:0 
+[Info  11:13:56.833] Updating web proxy from GConf
+[Info  11:13:56.878] All services are started 3.111311
+[Info  11:13:58.632] AmazonMP3 store redirect URL: https://one.ubuntu.com/music/store/amz/
+[Info  11:13:59.675] nereid Client Started
+[Info  11:14:00.028] GStreamer version 1.0.7.0, gapless: True, replaygain: False
+[Info  11:14:00.802] AppleDeviceSource is ignoring unmounted volume 253 GB Volume
+System.ApplicationException: Could not find org.freedesktop.Avahi
+  at Mono.Zeroconf.Providers.AvahiDBus.DBusManager.Initialize () [0x00000] in <filename unknown>:0 
+  at Mono.Zeroconf.Providers.AvahiDBus.ZeroconfProvider.Initialize () [0x00000] in <filename unknown>:0 
+  at Mono.Zeroconf.Providers.ProviderFactory.GetProviders () [0x00000] in <filename unknown>:0 
+[Warn  11:14:02.243] Failed to start DAAP client - System.Exception: No Zeroconf providers could be found or initialized. Necessary daemon may not be running. (in `Mono.Zeroconf')
+  at Mono.Zeroconf.Providers.ProviderFactory.GetProviders () [0x00000] in <filename unknown>:0 
+  at Mono.Zeroconf.Providers.ProviderFactory.get_DefaultProvider () [0x00000] in <filename unknown>:0 
+  at Mono.Zeroconf.Providers.ProviderFactory.get_SelectedProvider () [0x00000] in <filename unknown>:0 
+  at Mono.Zeroconf.ServiceBrowser..ctor () [0x00000] in <filename unknown>:0 
+  at Daap.ServiceLocator.Start () [0x00000] in <filename unknown>:0 
+  at Banshee.Daap.DaapService.ThreadedInitialize () [0x00000] in <filename unknown>:0 
+[Error 11:14:20.665] GStreamer resource error: NotFound
+
+(Banshee:2180): GVFS-RemoteVolumeMonitor-WARNING **: Owner of volume monitor org.gtk.Private.MTPVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(Banshee:2180): GVFS-RemoteVolumeMonitor-WARNING **: Owner of volume monitor org.gtk.Private.UDisks2VolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(Banshee:2180): GVFS-RemoteVolumeMonitor-WARNING **: Owner of volume monitor org.gtk.Private.AfcVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(Banshee:2180): GVFS-RemoteVolumeMonitor-WARNING **: Owner of volume monitor org.gtk.Private.GPhoto2VolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.

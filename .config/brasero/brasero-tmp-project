@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<braseroproject>
+	<version>0.2</version>
+	<label>Visit the website :)</label>
+	<track>
+		<audio>
+			<uri>file%3A%2F%2F%2Fhome%2Fznatz%2FVideos%2FVideo%2Flearn%2520french%2FPimsleur%2520-%2520French%2520I%2FPimsleur%2520-%2520French%2520I%2520-%2520Lesson%252009.mp3</uri>
+			<start>0</start>
+			<end>1771452000000</end>
+			<title>Pimsleur%20French%20I%20-%20Unit%2009</title>
+			<artist>pimsleurmp3.freeservers.com</artist>
+		</audio>
+		<audio>
+			<uri>file%3A%2F%2F%2Fhome%2Fznatz%2FVideos%2FVideo%2Flearn%2520french%2FPimsleur%2520-%2520French%2520I%2FPimsleur%2520-%2520French%2520I%2520-%2520Lesson%252010.mp3</uri>
+			<start>0</start>
+			<end>1586808000000</end>
+			<title>Pimsleur%20French%20I%20-%20Unit%2010</title>
+			<artist>pimsleurmp3.freeservers.com</artist>
+		</audio>
+	</track>
+</braseroproject>

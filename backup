@@ -1,9 +1,12 @@
 #!/bin/bash
+cd ~/PGround/.backup
 rsync -aP /etc/vim/ ./vim
 rsync -aP ~/.i3/ ./.i3
+rsync -avzr ~/.config/ ./.config
 rsync -aP ~/.bash_custom.d/ ./.bash_custom.d
 rsync -aP ~/.mplayer/ ./.mplayer
 rsync -aP ~/.bashrc .
+rsync -aP ~/.Xresources .
 rsync -aP ~/.muttrc .
 rsync -aP ~/.vim/ ./.vim
 rm ./.bash_custom.d/.git -rf

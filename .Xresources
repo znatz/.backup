@@ -1,0 +1,59 @@
+!
+! ~/.Xresources
+! load it with
+! xrdb -merget thisfile
+! Downloaded from https://github.com/w0ng/dotfiles/tree/master/.config
+
+! X Settings
+Xft.dpi: 96
+Xcursor.theme: Neutral
+
+! Colour Scheme
+!#include "/home/znatz/.config/termcolours/jellybeans"
+!#include "/home/znatz/.config/termcolours/hybrid"
+!#include "/home/znatz/.config/termcolours/jasonwryan"
+!#include "/home/znatz/.config/termcolours/teh"
+!#include "/home/znatz/.config/termcolours/dotshare_cthulhu"
+!#include "/home/znatz/.config/termcolours/4bit"
+#include "/home/znatz/.config/termcolours/dotshare_728"
+
+!Transparency
+!URxvt.transparent: true
+!URxvt.shading: 20
+
+! URxvt Options
+URxvt.iso14755: False
+URxvt.iso14755_52: False
+URxvt.depth: 32
+URxvt.scrollstyle: rxvt
+URxvt.scrollBar: off
+URxvt.urgentOnBell: True
+URxvt.visualBell: True
+URxvt.cursorColor: #00FFFF
+! bold, italic, underline
+URxvt.colorBD: #B5BD68
+URxvt.colorIT: #B294BB
+URxvt.colorUL: #81A2BE
+! font
+URxvt.font: xft:Inconsolata\\-g:style=g:size=10.5, xft:DejaVu Sans Mono:size=10.5
+URxvt.boldFont:  xft:Inconsolata\\-g:style=g:size=10.5, xft:DejaVu Sans Mono:size=10.5
+URxvt.italicFont: xft:Inconsolata\\-g:style=g:size=10.5, xft:DejaVu Sans Mono:size=10.5
+URxvt.boldItalicFont: xft:Inconsolata\\-g:style=g:size=10.5, xft:DejaVu Sans Mono:size=10.5
+URxvt.letterSpace: -2
+! extensions
+URxvt.perl-ext-common: default,clipboard,keyboard-select,url-select
+! clipboard
+URxvt.keysym.C-C: perl:clipboard:copy
+URxvt.keysym.C-V: perl:clipboard:paste
+URxvt.keysym.M-C-v: perl:clipboard:paste_escaped
+URxvt.clipboard.copycmd:  xsel -ib
+URxvt.clipboard.pastecmd: xsel -ob
+! keyboard-select
+URxvt.keysym.M-Escape: perl:keyboard-select:activate
+URxvt.keysym.M-s: perl:keyboard-select:search
+! url-select
+URxvt.keysym.M-u: perl:url-select:select_next
+URxvt.url-select.autocopy: true
+URxvt.url-select.button: 1
+URxvt.url-select.launcher: /usr/bin/firefox
+URxvt.url-select.underline: true

@@ -38,6 +38,29 @@ unmuteall(){
     amixer -c 0 set "$i" playback unmute
   done &>/dev/null
 }
+extractme () {
+    if [ -f $1 ]; then
+        case $1 in
+            *.tar.bz2) tar -jxvf $1 ;;
+            *.tar.gz) tar -zxvf $1 ;;
+            *.bz2) bunzip2 $1 ;;
+            *.dmg) hdiutil mount $1 ;;
+            *.gz) gunzip $1 ;;
+            *.tar) tar -xvf $1 ;;
+            *.tbz2) tar -jxvf $1 ;;
+            *.tgz) tar -zxvf $1 ;;
+            *.zip) unzip $1 ;;
+            *.ZIP) unzip $1 ;;
+            *.pax) cat $1 | pax -r ;;
+            *.pax.Z) uncompress $1 --stdout | pax -r ;;
+            *.Z) uncompress $1 ;;
+            *) echo "'$1' cannot be extracted/mounted via extract()" ;;
+        esac
+    else
+        echo "'$1' is not a valid file"
+    fi
+}
+
 unpackme(){
  fn=$(echo "$1" | tr '[:upper:]' '[:lower:]')
  echo "$fn"
@@ -60,7 +83,8 @@ unpackme(){
         *.tar.xz)
         	echo "Unpacking tar.xz";;
         *.7z)
-        	echo "Unpacking 7z";;
+        	echo "Unpacking 7z";
+		7z x $fn;;
         *.rar)
         	echo "Unpacking rar";;
         *.tar.Z)
@@ -95,8 +119,19 @@ ejectmyusb(){
 	udisks --detach /dev/sdb
 }
 playmovie(){
-	nohup mplayer $1 &
+	nohup mplayer $1 >/dev/null 2>&1& 
 }
+
+# Play with wikipedia
+askwikipedia(){
+	dig +short txt "$1".wp.dg.cx
+}
+
+# Play with  commandlinefu.com
+askcommandlinefu(){
+	 curl "http://www.commandlinefu.com/commands/browse/sort-by-votes/plaintext"
+} 
+
 colormycommand()(set -o pipefail;"$@" 2>&1>&3|sed $'s,.*,\e[31m&\e[m,'>&2)3>&1
 export MOZILLA_FIVE_HOME=/usr/lib/firefox
 PATH="$PATH":$HOME/mycommand
