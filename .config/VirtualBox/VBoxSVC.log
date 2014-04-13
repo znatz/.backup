@@ -1,23 +1,20 @@
 VirtualBox XPCOM Server 4.3.8 r92456 linux.amd64 (Feb 25 2014 18:07:10) release log
-00:00:00.000384 main     Log opened 2014-03-17T09:23:51.475255000Z
-00:00:00.000386 main     Build Type: release
-00:00:00.000391 main     OS Product: Linux
-00:00:00.000393 main     OS Release: 3.13.6-031306-generic
-00:00:00.000394 main     OS Version: #201403070154 SMP Fri Mar 7 06:55:03 UTC 2014
-00:00:00.000422 main     DMI Product Name: Aspire V3-571
-00:00:00.000430 main     DMI Product Version: V1.07
-00:00:00.000515 main     Host RAM: 3793MB total, 2732MB available
-00:00:00.000520 main     Executable: /usr/lib/virtualbox/VBoxSVC
-00:00:00.000521 main     Process ID: 2724
-00:00:00.000522 main     Package type: LINUX_64BITS_UBUNTU_13_04
-00:00:00.165905 nspr-2   Loading settings file "/home/znatz/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-00:00:00.232682 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
-00:00:00.233834 nspr-2   HostDnsMonitorProxy: Host's DNS information updated:
-00:00:00.233847 nspr-2   DNS server 0: 127.0.1.1
-00:00:00.235480 nspr-2   VDInit finished
-00:00:00.297906 nspr-2   Loading settings file "/home/znatz/VirtualBox VMs/fedora20_default_1394722264029_57631/fedora20_default_1394722264029_57631.vbox" with version "1.12-linux"
-00:00:01.830141 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true 
-00:00:02.199897 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true 
-00:00:02.201035 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true 
-00:00:10.806454 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={05f2bbb6-a3a6-4fb9-9b49-6d0dda7142ac} aComponent={Medium} aText={Medium '/home/znatz/VirtualBox VMs/fedora20_default_1394722264029_57631/packer-fedora-20-x86_64-disk1.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false
-00:00:10.806853 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={fafa4e17-1ee2-4905-a10e-fe7c18bf5554} aComponent={VirtualBox} aText={The object is not ready}, preserve=false
+00:00:00.000353 main     Log opened 2014-03-30T09:18:51.144019000Z
+00:00:00.000356 main     Build Type: release
+00:00:00.000361 main     OS Product: Linux
+00:00:00.000362 main     OS Release: 3.13.6-031306-generic
+00:00:00.000363 main     OS Version: #201403070154 SMP Fri Mar 7 06:55:03 UTC 2014
+00:00:00.000390 main     DMI Product Name: Aspire V3-571
+00:00:00.000397 main     DMI Product Version: V1.07
+00:00:00.000960 main     Host RAM: 7825MB total, 7132MB available
+00:00:00.000966 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000967 main     Process ID: 3059
+00:00:00.000968 main     Package type: LINUX_64BITS_UBUNTU_13_04
+00:00:00.197744 nspr-2   Loading settings file "/home/znatz/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.276766 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.277157 nspr-2   HostDnsMonitorProxy: Host's DNS information updated:
+00:00:00.277167 nspr-2   DNS server 0: 127.0.1.1
+00:00:00.328783 nspr-2   VDInit finished
+00:00:00.573133 nspr-2   Loading settings file "/home/znatz/VirtualBox VMs/fedora20_default_1394722264029_57631/fedora20_default_1394722264029_57631.vbox" with version "1.12-linux"
+00:00:05.862898 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={05f2bbb6-a3a6-4fb9-9b49-6d0dda7142ac} aComponent={Medium} aText={Medium '/home/znatz/VirtualBox VMs/fedora20_default_1394722264029_57631/packer-fedora-20-x86_64-disk1.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false
+00:00:05.863415 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={fafa4e17-1ee2-4905-a10e-fe7c18bf5554} aComponent={VirtualBox} aText={The object is not ready}, preserve=false

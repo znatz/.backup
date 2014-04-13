@@ -118,6 +118,11 @@ ejectmyusb(){
 	echo 'udisks --detach /dev/sdb'
 	udisks --detach /dev/sdb
 }
+
+# Search google
+# google { Q="$@"; GOOG_URL='https://www.google.de/search?tbs=li:1&q='; AGENT="Mozilla/4.0"; stream=$(curl -A "$AGENT" -skLm 10 "${GOOG_URL}${Q//\ /+}" | grep -oP '\/url\?q=.+?&amp' | sed 's|/url?q=||; s|&amp||'); echo -e "${stream//\%/\x}"; }
+
+# Play video
 playmovie(){
 	nohup mplayer $1 >/dev/null 2>&1& 
 }
@@ -131,6 +136,12 @@ askwikipedia(){
 askcommandlinefu(){
 	 curl "http://www.commandlinefu.com/commands/browse/sort-by-votes/plaintext"
 } 
+
+flac2mp3(){
+	for f in *.flac; do 
+		flac -cd "$f" | lame -b 320 - "${f%.*}".mp3;
+done
+}
 
 colormycommand()(set -o pipefail;"$@" 2>&1>&3|sed $'s,.*,\e[31m&\e[m,'>&2)3>&1
 export MOZILLA_FIVE_HOME=/usr/lib/firefox

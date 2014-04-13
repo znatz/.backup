@@ -1,7 +1,7 @@
 set from = "z.nat.cn@gmail.com"
 set realname = "Ziran Zhao"
 set imap_user = "z.nat.cn@gmail.com"
-set imap_pass = ""
+set imap_pass = "matsunoyoshimasa2010"
 
 # REMOTE GMAIL FOLDERS
 set folder = "imaps://imap.gmail.com:993"
