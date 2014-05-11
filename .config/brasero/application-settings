@@ -2,10 +2,10 @@
 layout-audio=Chooser
 show-sidepane=false
 show-preview=false
-main-window-width=1364
+main-window-width=681
 main-window-height=747
 main-window-maximized=false
-stock-file-chooser-percent=1671
+stock-file-chooser-percent=2687
 brasero-file-chooser-percent=-1
 layout=-1
 data-disc-column=-1
@@ -13,7 +13,7 @@ data-disc-column-order=-1
 pane-position=-1
 
 [Player]
-player-volume=0
+player-volume=10
 image-size-width=120
 image-size-height=90
 video-size-width=120

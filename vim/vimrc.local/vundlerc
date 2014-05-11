@@ -30,6 +30,7 @@
  Bundle 'ZenCoding.vim'
  Bundle 'sudo.vim'
  Bundle 'javascript.vim'
+ Bundle 'elzr/vim-json'
  Bundle 'coffee.vim'
  Bundle 'vim-coffee-script'
  Bundle 'Better-Javascript-Indentation'

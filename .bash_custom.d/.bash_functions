@@ -1,3 +1,6 @@
+mycref(){
+  dwb "http://www.gnu.org/software/libc/manual/html_node/index.html#toc_Top" &
+}
 h2d(){
   echo "ibase=16;${@^^}" | bc
 }

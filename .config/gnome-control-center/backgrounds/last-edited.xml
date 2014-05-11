@@ -2,11 +2,6 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper>
-    <name>Solid Color</name>
-    <filename>(none)</filename>
-    <options>none</options>
-    <shade_type>solid</shade_type>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
+    <name>Current background</name>
   </wallpaper>
 </wallpapers>

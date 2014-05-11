@@ -7,11 +7,11 @@
       "last_known_google_url": "https://www.google.co.jp/",
       "last_prompted_google_url": "https://www.google.co.jp/",
       "window_placement": {
-         "bottom": 747,
-         "left": 911,
+         "bottom": 498,
+         "left": 0,
          "maximized": false,
          "right": 1364,
-         "top": 0,
+         "top": 250,
          "work_area_bottom": 768,
          "work_area_left": 0,
          "work_area_right": 1366,
@@ -41,8 +41,8 @@
       "suggest_url_post_params": ""
    },
    "dns_prefetching": {
-      "host_referral_list": [ 2, [ "http://19804.y.kau.li/", [ "http://pixel.mathtag.com/", 2.025335319191497, "http://rs.adapf.com/", 2.025335319191497, "http://s.kau.li/", 2.319614810014193, "http://sync.fout.jp/", 2.319614810014193, "http://sync.mathtag.com/", 2.025335319191497, "https://ads.yahoo.com/", 2.025335319191497 ] ], [ "http://29795.y.kau.li/", [ "http://ad.kau.li/", 1.8043542189575343 ] ], [ "http://3dnchu.com/", [ "http://ads.yahoo.com/", 1.6545901963366785, "http://ecx.images-amazon.com/", 8.626495895430542, "http://pagead2.googlesyndication.com/", 2.1354112790328075, "http://widget.zenback.jp/", 2.1354112790328075, "http://wms.assoc-amazon.jp/", 4.299106151165384, "http://ws.amazon.co.jp/", 1.8950007376847426, "http://www.assoc-amazon.jp/", 1.6545901963366785, "https://accounts.google.com/", 1.6545901963366785, "https://apis.google.com/", 2.3758218203808714, "https://www.facebook.com/", 1.6545901963366785 ] ], [ "http://46200.y.kau.li/", [ "http://ad.kau.li/", 1.8043542189575343 ] ], [ "http://46236.y.kau.li/", [ "http://admaym.com/", 1.8572295440774185, "http://ads.yahoo.com/", 2.127083409456189, "http://d.agkn.com/", 1.8572295440774185, "http://e.nexac.com/", 2.127083409456189, "http://g.adnxs.com/", 1.8572295440774185, "http://pixel.mathtag.com/", 4.649343767113173, "http://rtb-csync.smartadserver.com/", 1.8572295440774185, "http://s.kau.li/", 2.136308591170327, "http://su.addthis.com/", 1.8572295440774185, "http://sync.mathtag.com/", 2.396937274834959 ] ], [ "http://46238.y.kau.li/", [ "http://cm.g.doubleclick.net/", 1.8043542189575343, "http://pixel.mathtag.com/", 2.328696470620408, "http://s.kau.li/", 2.066525344788971, "http://spdeliver.i-mobile.co.jp/", 1.8043542189575343, "http://spnet33.i-mobile.co.jp/", 1.8043542189575343, "http://sync.mathtag.com/", 2.066525344788971, "http://www.facebook.com/", 1.8043542189575343, "http://xid.i-mobile.co.jp/", 1.8043542189575343, "https://www.facebook.com/", 1.8043542189575343 ] ], [ "http://53025.y.kau.li/", [ "http://cotads.adscale.de/", 1.8572295440774185, "http://dpm.demdex.net/", 1.8572295440774185, "http://g.adnxs.com/", 1.8572295440774185, "http://idsync.rlcdn.com/", 1.8572295440774185, "http://p.acxiom-online.com/", 2.396937274834959, "http://pixel.mathtag.com/", 4.55576819786512, "http://r.nexac.com/", 1.8572295440774185, "http://s.kau.li/", 2.396937274834959, "http://sync.mathtag.com/", 2.127083409456189, "http://www.adadvisor.net/", 1.8572295440774185 ] ], [ "http://ad.adlantis.jp/", [ "http://pc.adimg.net/", 1.8043542189575343 ] ], [ "http://ad.kau.li/", [ "http://ads.yahoo.com/", 1.1908737845119726 ] ], [ "http://ad.turn.com/", [ "http://cdn.turn.com/", 1.5724900752722115 ] ], [ "http://adf.send.microad.jp/", [ "http://adf.send.microad.jp/", 2.025335319191497, "http://spdeliver.i-mobile.co.jp/", 2.6138943008368893, "http://spdeliverp.i-mobile.co.jp/", 2.025335319191497, "http://spnet2-1.i-mobile.co.jp/", 2.025335319191497, "http://xid.i-mobile.co.jp/", 2.025335319191497 ] ], [ "http://adm.shinobi.jp/", [ "http://46236.y.kau.li/", 1.3487169201576639, "http://53025.y.kau.li/", 0.8090091894001237, "http://ads.yahoo.com/", 0.34237144955205423, "http://cs.adingo.jp/", 0.8398342394994831, "http://i.adingo.jp/", 1.4517651133350493, "http://js.kau.li/", 0.8090091894001237, "http://ox-d.openx.jp/", 2.407498861820039, "http://sh.adingo.jp/", 2.710397614102273, "http://ssp.advg.jp/", 2.2502305846495956, "http://sync.logly.co.jp/", 0.34237144955205423 ] ], [ "http://ads.yahoo.com/", [ "http://46200.y.kau.li/", 0.22596515670435585, "http://a248.e.akamai.net/", 0.25879770084088616, "http://ads.yahoo.com/", 1.2347945209683964, "http://cdn.c-team.jp/", 0.29163024497741635, "http://content.yieldmanager.edgesuite.net/", 0.5305079540526823, "http://img.ll.impact-ad.jp/", 0.25879770084088616, "http://nw.ads.doko.jp/", 0.22596515670435585, "http://spnet33.i-mobile.co.jp/", 0.651494408763074, "http://xid.i-mobile.co.jp/", 0.651494408763074 ] ], [ "http://badge.stumbleupon.com/", [ "http://cdn.stumble-upon.com/", 2.467177827586342 ] ], [ "http://blog.livedoor.jp/", [ "http://b.hatena.ne.jp/", 2.066525344788971, "http://blog.livedoor.jp/", 7.0477767355862655, "http://blogroll.livedoor.net/", 6.261263358091956, "http://img.i2i.jp/", 3.377380973946154, "http://img.shinobi.jp/", 1.8043542189575343, "http://platform.twitter.com/", 2.066525344788971, "http://rc2.i2i.jp/", 2.328696470620408, "http://resize.blogsys.jp/", 7.572118987249137, "http://t.blog.livedoor.jp/", 1.8043542189575343, "http://urls.api.twitter.com/", 3.6395520997775903 ] ], [ "http://cdn.api.b.hatena.ne.jp/", [ "http://cdn-ak.b.st-hatena.com/", 2.1472134477330247 ] ], [ "http://cdn.turn.com/", [ "http://cs.genieessp-a.com/", 1.8043542189575343, "http://cs.genieesspv.jp/", 1.8043542189575343, "http://cs.gssprt.jp/", 2.066525344788971, "http://d.audienceiq.com/", 2.066525344788971, "http://d.gssp-a.com/", 1.8043542189575343, "http://d.href.asia/", 1.8043542189575343, "http://d.turn.com/", 3.377380973946154, "http://dpm.demdex.net/", 2.328696470620408, "http://e.nexac.com/", 2.066525344788971, "http://r.turn.com/", 2.5908675964518446 ] ], [ "http://cm.g.doubleclick.net/", [ "http://cm.g.doubleclick.net/", 2.025335319191497, "http://p.rfihub.com/", 2.025335319191497 ] ], [ "http://css-tricks.com/", [ "http://ad.doubleclick.net/", 1.474060504014537, "http://cdn.css-tricks.com/", 3.4016780861873914, "http://cloud.typography.com/", 1.474060504014537, "http://codepen.io/", 1.474060504014537, "http://fonts.googleapis.com/", 1.474060504014537, "http://s0.2mdn.net/", 1.474060504014537, "http://s0.wp.com/", 1.474060504014537, "http://s3.buysellads.com/", 1.474060504014537, "http://www.googleadservices.com/", 1.474060504014537, "https://css-tricks.com/", 1.474060504014537 ] ], [ "http://ct1.addthis.com/", [ "http://b.scorecardresearch.com/", 2.319614810014193, "http://m.addthis.com/", 2.025335319191497 ] ], [ "http://disqus.com/", [ "http://a.disquscdn.com/", 4.13374828065791, "http://disqus.com/", 2.744939569764937, "http://juggler.services.disqus.com/", 2.1894160854077476, "http://referrer.disqus.com/", 2.1894160854077476, "http://www.google-analytics.com/", 1.9116543432291524 ] ], [ "http://en.wikipedia.org/", [ "http://bits.wikimedia.org/", 4.640012645798919, "http://login.wikimedia.org/", 2.1457765990453503, "http://meta.wikimedia.org/", 2.4575561048895462, "http://upload.wikimedia.org/", 2.7693356107337426 ] ], [ "http://fbcmd.dtompkins.com/", [ "http://csi.gstatic.com/", 1.703076792622645, "http://fbcmd.dtompkins.com/", 2.4983285809220765, "http://ssl.gstatic.com/", 0.8712757493851402, "http://www.google-analytics.com/", 2.1602324443901493, "http://www.gstatic.com/", 2.8998525685766974, "https://49.docs.google.com/", 1.703076792622645, "https://59.docs.google.com/", 0.7611542897428757, "https://apis.google.com/", 1.5474680224489918, "https://docs.google.com/", 0.961916283570186, "https://www.google.com/", 0.6238201470382597 ] ], [ "http://gigazine.asia/", [ "http://gigazine.asia/", 4.379571245773065, "http://googleads.g.doubleclick.net/", 3.496732773304977, "http://i.gzn.jp/", 2.9081737916595856, "http://pagead2.googlesyndication.com/", 2.6138943008368893, "http://www.gstatic.com/", 2.319614810014193 ] ], [ "http://gigazine.net/", [ "http://ct1.addthis.com/", 3.202453282482282, "http://ecx.images-amazon.com/", 6.733807172354633, "http://g-ecx.images-amazon.com/", 3.7910122641276733, "http://i.gzn.jp/", 6.4395276815319376, "http://ir-jp.amazon-adsystem.com/", 2.025335319191497, "http://pbs.twimg.com/", 7.322366154000026, "http://platform.twitter.com/", 2.6138943008368893, "http://ws-fe.amazon-adsystem.com/", 3.202453282482282, "http://www.google.com/", 3.202453282482282, "https://apis.google.com/", 2.319614810014193 ] ], [ "http://googleads.g.doubleclick.net/", [ "http://cm.g.doubleclick.net/", 0.8822360650398162, "http://googleads.g.doubleclick.net/", 0.8481391760672673, "http://p4-dwrqbal2mde7w-r5ouwtivmc5sfsfu-if-v6exp3-v4.metric.gstatic.com/", 0.8822360650398162, "http://pagead2.googlesyndication.com/", 2.3290621492142596, "http://www.google.com/", 0.8730539649098616, "http://www.gstatic.com/", 0.4658475830728831, "https://encrypted-tbn3.gstatic.com/", 0.1290699941694228, "https://googleads.g.doubleclick.net/", 0.8730539649098616 ] ], [ "http://jetpack.wordpress.com/", [ "http://0.gravatar.com/", 2.061666773088961, "http://1.gravatar.com/", 1.0748489083089987, "http://s0.wp.com/", 2.061666773088961, "http://s1.wp.com/", 1.0748489083089987, "http://s2.wp.com/", 3.0484846378689245, "https://public-api.wordpress.com/", 1.0748489083089987 ] ], [ "http://katuru2ch.blog12.fc2.com/", [ "http://b.hatena.ne.jp/", 1.8572295440774185, "http://cs.genieessp-a.com/", 2.6667911402137294, "http://cs.gssprt.jp/", 5.09547592862266, "http://d.gssp-a.com/", 2.6667911402137294, "http://d.href.asia/", 7.794014582410361, "http://dmp.owldata.com/", 1.8572295440774185, "http://ox-d.openx.jp/", 2.6667911402137294, "http://platform.twitter.com/", 1.8572295440774185, "http://widget3.linkwithin.com/", 1.8572295440774185, "https://ads.yahoo.com/", 2.127083409456189 ] ], [ "http://ld.send.microad.jp/", [ "http://send.microad.jp/", 0.7859766977779021 ] ], [ "http://naldzgraphics.net/", [ "http://badge.stumbleupon.com/", 1.9116543432291524, "http://log.pinterest.com/", 1.9116543432291524, "http://naldzgraphics.net/", 1.9116543432291524, "http://pagead2.googlesyndication.com/", 2.1894160854077476, "http://passets.pinterest.com/", 1.9116543432291524, "http://s3.buysellads.com/", 3.0227013119435315, "http://sjc-login.dotomi.com/", 2.1894160854077476, "http://stats.buysellads.com/", 2.467177827586342, "https://apis.google.com/", 2.467177827586342, "https://www.facebook.com/", 1.9116543432291524 ] ], [ "http://p4-dwrqbal2mde7w-r5ouwtivmc5sfsfu-if-v6exp3-v4.metric.gstatic.com/", [ "http://p4-dwrqbal2mde7w-r5ouwtivmc5sfsfu-if-v6exp3-v4.metric.gstatic.com/", 2.025335319191497 ] ], [ "http://platform.twitter.com/", [ "http://cdn.api.twitter.com/", 0.3811044716823039, "https://cdn.api.twitter.com/", 0.3811044716823039, "https://twitter.com/", 0.7652709698329294 ] ], [ "http://plugins.mixi.jp/", [ "http://img.mixi.net/", 1.485153275334669 ] ], [ "http://s3.buysellads.com/", [ "http://ad.doubleclick.net/", 1.9116543432291524, "http://pagead2.googlesyndication.com/", 1.9116543432291524, "http://s0.2mdn.net/", 1.9116543432291524, "http://www.gstatic.com/", 1.9116543432291524 ] ], [ "http://spnet2-1.i-mobile.co.jp/", [ "http://spcdnpc.i-mobile.co.jp/", 1.0682311926667616, "http://spnet2-1.i-mobile.co.jp/", 0.8147544915247387 ] ], [ "http://spnet33.i-mobile.co.jp/", [ "http://spcdnpc.i-mobile.co.jp/", 1.077209430949522, "http://spnet33.i-mobile.co.jp/", 0.4199533564329892 ] ], [ "http://static.affiliate.rakuten.co.jp/", [ "http://dynamic.rakuten.co.jp/", 0.8711739206841363, "http://grp01.ashiato.rakuten.co.jp/", 0.8711739206841363, "http://imp.pt.afl.rakuten.co.jp/", 0.8711739206841363, "http://log.affiliate.rakuten.co.jp/", 0.8711739206841363, "http://mtwidget01.affiliate.rakuten.co.jp/", 0.8711739206841363, "http://static.affiliate.rakuten.co.jp/", 2.6078074726383442, "http://thumbnail.image.rakuten.co.jp/", 8.028806814038948 ] ], [ "http://sync.fout.jp/", [ "http://s.kau.li/", 1.10328868022282 ] ], [ "http://widget.zenback.jp/", [ "http://stats.g.doubleclick.net/", 2.061666773088961 ] ], [ "http://www.austlii.edu.au/", [ "http://www.austlii.edu.au/", 3.1714050174239996 ] ], [ "http://www.bbc.co.uk/", [ "http://emp.bbci.co.uk/", 2.2535753763730892, "http://news.bbc.co.uk/", 1.967674022654115, "http://news.bbcimg.co.uk/", 8.25750380447154, "http://node1.bbcimg.co.uk/", 1.967674022654115, "http://static.bbci.co.uk/", 3.3971807912489846, "https://ssl.live.bbc.co.uk/", 1.967674022654115 ] ], [ "http://www.bbc.com/", [ "http://ad.doubleclick.net/", 2.8253780838110374, "http://emp.bbci.co.uk/", 2.2535753763730892, "http://googleads.g.doubleclick.net/", 1.967674022654115, "http://news.bbcimg.co.uk/", 12.831925463975125, "http://node1.bbcimg.co.uk/", 3.111279437530011, "http://open.live.bbc.co.uk/", 2.2535753763730892, "http://pagead2.googlesyndication.com/", 2.5394767300920633, "http://static.bbci.co.uk/", 5.112588913562827, "http://stats.bbc.co.uk/", 1.967674022654115, "http://www.googletagservices.com/", 1.967674022654115 ] ], [ "http://www.rhymezone.com/", [ "http://ajax.googleapis.com/", 3.2643407999999994, "http://googleads.g.doubleclick.net/", 2.6037003999999997, "http://pagead2.googlesyndication.com/", 3.2643407999999994, "http://platform.twitter.com/", 2.6037003999999997, "http://www.rhymezone.com/", 2.9340205999999998 ] ], [ "http://www.usupi.org/", [ "http://ecx.images-amazon.com/", 6.592419418045109, "http://ir-jp.amazon-adsystem.com/", 1.7529842543438134, "http://ws-fe.amazon-adsystem.com/", 6.592419418045109, "http://www.amazon.co.jp/", 1.7529842543438134, "http://www.google-analytics.com/", 2.007691368222829, "http://www.usupi.org/", 6.337712304166094, "http://www13.a8.net/", 1.7529842543438134, "http://www17.a8.net/", 1.7529842543438134, "http://www23.a8.net/", 2.007691368222829, "http://z-ecx.images-amazon.com/", 2.262398482101845 ] ], [ "http://www.wookmark.com/", [ "http://ajax.googleapis.com/", 1.0748489083089987, "http://assets.wookmark.com/", 1.5682578406989804, "http://edge.quantserve.com/", 1.0748489083089987, "http://images4.wookmark.com/", 10.449618623718644, "http://pixel.quantserve.com/", 1.0748489083089987, "http://www.google-analytics.com/", 1.0748489083089987, "http://www.wookmark.com/", 3.0484846378689245 ] ], [ "http://www.youtube.com/", [ "http://i1.ytimg.com/", 1.0960261603089403, "http://s.ytimg.com/", 3.1075973635437264, "http://www.google.com/", 0.9668557810186746 ] ], [ "https://49.docs.google.com/", [ "https://49.docs.google.com/", 2.692899202010165 ] ], [ "https://59.docs.google.com/", [ "https://59.docs.google.com/", 2.6722629264948017 ] ], [ "https://94.docs.google.com/", [ "https://94.docs.google.com/", 2.264422139068974 ] ], [ "https://accounts.google.com/", [ "https://oauth.googleusercontent.com/", 0.50191521358305, "https://ssl.gstatic.com/", 0.6081882647833254 ] ], [ "https://ads.yahoo.com/", [ "https://ads.yahoo.com/", 2.319614810014193, "https://content-ssl.yieldmanager.com/", 2.025335319191497 ] ], [ "https://api.twitter.com/", [ "https://abs.twimg.com/", 2.839715502893805, "https://pbs.twimg.com/", 1.3132281179390324 ] ], [ "https://apis.google.com/", [ "https://apis.google.com/", 1.6383375967296132, "https://ssl.gstatic.com/", 1.555971357353937 ] ], [ "https://apps.twitter.com/", [ "https://apps.twitter.com/", 2.017354657973863, "https://g.twimg.com/", 4.983411236184084, "https://pbs.twimg.com/", 1.2758405134213082, "https://platform.twitter.com/", 2.9442473386645562, "https://ssl.google-analytics.com/", 2.9442473386645562 ] ], [ "https://dev.twitter.com/", [ "https://a248.e.akamai.net/", 1.2758405134213082, "https://dev.twitter.com/", 2.202733194112002, "https://ping.chartbeat.net/", 1.461219049559447, "https://platform.twitter.com/", 1.2758405134213082, "https://ssl.google-analytics.com/", 1.2758405134213082 ] ], [ "https://platform.twitter.com/", [ "https://twitter.com/", 0.13448451138895723 ] ], [ "https://public-api.wordpress.com/", [ "https://accounts.google.com/", 2.555075705478943, "https://apis.google.com/", 2.061666773088961, "https://s0.wp.com/", 2.061666773088961 ] ], [ "https://twitter.com/", [ "https://abs.twimg.com/", 2.202733194112002, "https://ssl.google-analytics.com/", 1.461219049559447 ] ], [ "https://widgets.getpocket.com/", [ "https://d7x5nblzs94me.cloudfront.net/", 2.9081737916595856 ] ], [ "https://www.facebook.com/", [ "https://fbcdn-profile-a.akamaihd.net/", 1.777133854977502, "https://fbstatic-a.akamaihd.net/", 1.8946178967353273, "https://scontent-b.xx.fbcdn.net/", 0.054682110946648765, "https://www.facebook.com/", 0.12347418137110541 ] ], [ "https://www.google.co.jp/", [ "https://www.google.co.jp/", 2.3201221892899198 ] ], [ "https://www.google.com/", [ "https://apis.google.com/", 2.084686339270529, "https://ssl.gstatic.com/", 2.084686339270529, "https://www.google.com/", 4.205008342460212, "https://www.gstatic.com/", 2.084686339270529 ] ], [ "https://www.youtube.com/", [ "https://r2---sn-ogueyn7z.googlevideo.com/", 2.1786251562711962, "https://s.youtube.com/", 1.5172568052602975, "https://s.ytimg.com/", 3.501361858292993, "https://yt3.ggpht.com/", 1.5172568052602975 ] ] ],
-      "startup_list": [ 1, "http://ajax.googleapis.com/", "http://googleads.g.doubleclick.net/", "http://pagead2.googlesyndication.com/", "http://platform.twitter.com/", "http://www.google.com/", "http://www.gstatic.com/", "http://www.rhymezone.com/", "https://googleads.g.doubleclick.net/", "https://twitter.com/", "https://www.google.com/" ]
+      "host_referral_list": [ 2, [ "http://19804.y.kau.li/", [ "http://d.agkn.com/", 2.084686339270529, "http://idsync.rlcdn.com/", 3.5992020558345876, "http://p.acxiom-online.com/", 3.5992020558345876, "http://pixel.mathtag.com/", 4.423964106023138, "http://r.nexac.com/", 2.387589482583341, "http://s.kau.li/", 2.4623130601231775, "http://sync.mathtag.com/", 3.5992020558345876, "http://t.mookie1.com/", 2.9933957692089646, "http://www.adadvisor.net/", 2.084686339270529, "https://analytics.twitter.com/", 2.084686339270529 ] ], [ "http://29795.y.kau.li/", [ "http://ad.kau.li/", 1.474060504014537 ] ], [ "http://3dnchu.com/", [ "http://ads.yahoo.com/", 1.3517113397826443, "http://ecx.images-amazon.com/", 7.047383908268484, "http://pagead2.googlesyndication.com/", 1.7445163445058063, "http://widget.zenback.jp/", 1.7445163445058063, "http://wms.assoc-amazon.jp/", 3.512138865760031, "http://ws.amazon.co.jp/", 1.548113842144225, "http://www.assoc-amazon.jp/", 1.3517113397826443, "https://accounts.google.com/", 1.3517113397826443, "https://apis.google.com/", 1.9409188468673864, "https://www.facebook.com/", 1.3517113397826443 ] ], [ "http://46200.y.kau.li/", [ "http://ad.kau.li/", 1.1904322875487323 ] ], [ "http://46236.y.kau.li/", [ "http://admaym.com/", 1.5172568052602975, "http://ads.yahoo.com/", 1.7377129222639303, "http://d.agkn.com/", 1.5172568052602975, "http://e.nexac.com/", 1.7377129222639303, "http://g.adnxs.com/", 1.5172568052602975, "http://pixel.mathtag.com/", 3.7982641904133714, "http://rtb-csync.smartadserver.com/", 1.5172568052602975, "http://s.kau.li/", 1.7452494003369692, "http://su.addthis.com/", 1.5172568052602975, "http://sync.mathtag.com/", 1.9581690392675637 ] ], [ "http://46238.y.kau.li/", [ "http://cm.g.doubleclick.net/", 1.474060504014537, "http://pixel.mathtag.com/", 1.9024199667196162, "http://s.kau.li/", 1.6882402353670762, "http://spdeliver.i-mobile.co.jp/", 1.474060504014537, "http://spnet33.i-mobile.co.jp/", 1.474060504014537, "http://sync.mathtag.com/", 1.6882402353670762, "http://www.facebook.com/", 1.474060504014537, "http://xid.i-mobile.co.jp/", 1.474060504014537, "https://www.facebook.com/", 1.474060504014537 ] ], [ "http://53023.y.kau.li/", [ "http://adroute.focas.jp/", 2.6037003999999997, "http://kauli.socdm.com/", 2.6037003999999997, "http://pixel.mathtag.com/", 2.2733802, "http://rs.adapf.com/", 2.2733802, "http://s.kau.li/", 2.9340205999999998, "http://static.adroute.focas.jp/", 2.2733802, "http://sync.fout.jp/", 2.6037003999999997, "http://sync.mathtag.com/", 2.6037003999999997 ] ], [ "http://53025.y.kau.li/", [ "http://cotads.adscale.de/", 1.5172568052602975, "http://dpm.demdex.net/", 1.5172568052602975, "http://g.adnxs.com/", 1.5172568052602975, "http://idsync.rlcdn.com/", 1.5172568052602975, "http://p.acxiom-online.com/", 1.9581690392675637, "http://pixel.mathtag.com/", 3.7218179752966263, "http://r.nexac.com/", 1.5172568052602975, "http://s.kau.li/", 1.9581690392675637, "http://sync.mathtag.com/", 1.7377129222639303, "http://www.adadvisor.net/", 1.5172568052602975 ] ], [ "http://ad.adlantis.jp/", [ "http://pc.adimg.net/", 1.474060504014537 ] ], [ "http://ad.kau.li/", [ "http://ads.yahoo.com/", 0.2796990891170278, "http://d28nwox1gdjlve.cloudfront.net/", 0.9080893693862427 ] ], [ "http://ad.turn.com/", [ "http://cdn.turn.com/", 1.390693461071503 ] ], [ "http://adf.send.microad.jp/", [ "http://adf.send.microad.jp/", 1.3949326728950198, "http://spdeliver.i-mobile.co.jp/", 2.318080874100088, "http://spdeliverp.i-mobile.co.jp/", 1.3949326728950198, "http://spnet2-1.i-mobile.co.jp/", 1.3949326728950198, "http://xid.i-mobile.co.jp/", 1.3949326728950198 ] ], [ "http://adm.shinobi.jp/", [ "http://53023.y.kau.li/", 2.6037003999999997, "http://ad.turn.com/", 3.5946609999999994, "http://ads.yahoo.com/", 2.2733802, "http://cs.adingo.jp/", 2.2733802, "http://i.adingo.jp/", 2.2733802, "http://ox-d.openx.jp/", 2.5578002679027, "http://sh.adingo.jp/", 2.9776190762566337, "http://ssp.advg.jp/", 1.5850062187108807, "http://sync.logly.co.jp/", 0.05307216375436078, "http://u.openx.net/", 0.99028441512 ] ], [ "http://adroute.focas.jp/", [ "http://i.yimg.jp/", 2.9340205999999998, "http://yads.yahoo.co.jp/", 2.9340205999999998 ] ], [ "http://ads.yahoo.com/", [ "http://46200.y.kau.li/", 1.8307511319999998, "http://ads.yahoo.com/", 1.3483482389129666, "http://content.yieldmanager.edgesuite.net/", 0.11695304274237259, "http://spdeliver.i-mobile.co.jp/", 0.9384849226368, "http://spnet2-1.i-mobile.co.jp/", 0.99028441512, "http://spnet33.i-mobile.co.jp/", 0.21054112058113023, "http://xid.i-mobile.co.jp/", 0.5026763054611303 ] ], [ "http://badge.stumbleupon.com/", [ "http://cdn.stumble-upon.com/", 2.015551798984657 ] ], [ "http://blog.livedoor.jp/", [ "http://b.hatena.ne.jp/", 1.6882402353670762, "http://blog.livedoor.jp/", 5.757655131065327, "http://blogroll.livedoor.net/", 5.115115937007707, "http://img.i2i.jp/", 2.759138892129774, "http://img.shinobi.jp/", 1.474060504014537, "http://platform.twitter.com/", 1.6882402353670762, "http://rc2.i2i.jp/", 1.9024199667196162, "http://resize.blogsys.jp/", 6.186014593770404, "http://t.blog.livedoor.jp/", 1.474060504014537, "http://urls.api.twitter.com/", 2.9733186234823132 ] ], [ "http://cdn.api.b.hatena.ne.jp/", [ "http://cdn-ak.b.st-hatena.com/", 1.6994497782973028 ] ], [ "http://cdn.turn.com/", [ "http://cs.genieessp-a.com/", 2.2733802, "http://cs.genieessp.jp/", 2.2733802, "http://cs.genieesspv.jp/", 2.2733802, "http://cs.gssprt.jp/", 2.6037003999999997, "http://d.gssp-a.com/", 2.2733802, "http://d.href.asia/", 2.2733802, "http://d.turn.com/", 4.255301399999999, "http://dpm.demdex.net/", 2.2733802, "http://r.turn.com/", 3.5946609999999994, "http://rt.gsspat.jp/", 2.2733802 ] ], [ "http://cm.g.doubleclick.net/", [ "http://cm.g.doubleclick.net/", 1.3949326728950198, "http://p.rfihub.com/", 1.0920295295822076, "http://user-disp.tidaltv.com/", 2.084686339270529 ] ], [ "http://css-tricks.com/", [ "http://ad.doubleclick.net/", 1.204228275505104, "http://cdn.css-tricks.com/", 2.7789883280887, "http://cloud.typography.com/", 1.204228275505104, "http://codepen.io/", 1.204228275505104, "http://fonts.googleapis.com/", 1.204228275505104, "http://s0.2mdn.net/", 1.204228275505104, "http://s0.wp.com/", 1.204228275505104, "http://s3.buysellads.com/", 1.204228275505104, "http://www.googleadservices.com/", 1.204228275505104, "https://css-tricks.com/", 1.204228275505104 ] ], [ "http://ct1.addthis.com/", [ "http://b.scorecardresearch.com/", 0.825462321335474, "http://m.addthis.com/", 1.232435069954909 ] ], [ "http://dev.classmethod.jp/", [ "http://dev.classmethod.jp/", 6.701480840389999, "http://disqus.com/", 2.2086570657060003, "http://static.ak.facebook.com/", 2.2086570657060003, "http://urls.api.twitter.com/", 2.850489033518, "http://www.facebook.com/", 2.2086570657060003, "https://accounts.google.com/", 2.2086570657060003, "https://apis.google.com/", 3.8132369852359993, "https://s-static.ak.facebook.com/", 2.2086570657060003, "https://widgets.getpocket.com/", 3.1714050174239996, "https://www.facebook.com/", 2.529573049612 ] ], [ "http://disqus.com/", [ "http://a.disquscdn.com/", 6.898925681749797, "http://b.scorecardresearch.com/", 2.2638189970391007, "http://disqus.com/", 2.2134264025196795, "http://juggler.services.disqus.com/", 0.6450311397238009, "http://referrer.disqus.com/", 1.1717215974869701, "http://www.google-analytics.com/", 1.2072150855026251 ] ], [ "http://en.wikipedia.org/", [ "http://bits.wikimedia.org/", 3.790641165375938, "http://login.wikimedia.org/", 1.7529842543438134, "http://meta.wikimedia.org/", 2.007691368222829, "http://upload.wikimedia.org/", 2.262398482101845 ] ], [ "http://fbcmd.dtompkins.com/", [ "http://csi.gstatic.com/", 1.3913222852435276, "http://fbcmd.dtompkins.com/", 2.0410002916808603, "http://ssl.gstatic.com/", 0.7117855001975804, "http://www.google-analytics.com/", 1.764793903719213, "http://www.gstatic.com/", 2.3690238279674602, "https://49.docs.google.com/", 1.3913222852435276, "https://59.docs.google.com/", 0.6218221811343885, "https://apis.google.com/", 1.264198276120873, "https://docs.google.com/", 0.7858339492776886, "https://www.google.com/", 0.5096275613160417 ] ], [ "http://gigazine.asia/", [ "http://gigazine.asia/", 2.546178581394344, "http://googleads.g.doubleclick.net/", 2.188203494409194, "http://i.gzn.jp/", 0.9651653236259501, "http://pagead2.googlesyndication.com/", 0.6944829289214828, "http://www.gstatic.com/", 0.3479334394683293 ] ], [ "http://gigazine.net/", [ "http://ecx.images-amazon.com/", 7.839846062213953, "http://g-ecx.images-amazon.com/", 2.9933957692089646, "http://gigazine.asia/", 3.9021051991473996, "http://i.gzn.jp/", 6.804028465368975, "http://pbs.twimg.com/", 9.703266483740636, "http://ws.amazon.co.jp/", 3.2962989125217765, "http://www.assoc-amazon.jp/", 2.084686339270529, "http://www.google.com/", 4.205008342460212, "http://www.gstatic.com/", 2.084686339270529, "https://apis.google.com/", 2.387589482583341 ] ], [ "http://googleads.g.doubleclick.net/", [ "http://cm.g.doubleclick.net/", 0.39556372930464734, "http://googleads.g.doubleclick.net/", 2.7693356107337426, "http://p4-ef4kh2dix67la-52222ppljccr4472-if-v6exp3-v4.metric.gstatic.com/", 2.1457765990453503, "http://pagead2.googlesyndication.com/", 1.866960618005156, "http://www.gstatic.com/", 0.372531703788053, "https://googleads.g.doubleclick.net/", 2.7693356107337426, "https://www.google.com/", 2.7693356107337426 ] ], [ "http://i.yimg.jp/", [ "http://yads.c.yimg.jp/", 2.2733802, "http://yads.yahoo.co.jp/", 3.924981199999999 ] ], [ "http://jetpack.wordpress.com/", [ "http://0.gravatar.com/", 1.684271043190916, "http://1.gravatar.com/", 0.8780938392666711, "http://s0.wp.com/", 1.684271043190916, "http://s1.wp.com/", 0.8780938392666711, "http://s2.wp.com/", 2.490448247115162, "https://public-api.wordpress.com/", 0.8780938392666711 ] ], [ "http://katuru2ch.blog12.fc2.com/", [ "http://ads.yahoo.com/", 3.924981199999999, "http://b.hatena.ne.jp/", 3.924981199999999, "http://blogroll.livedoor.net/", 9.540424599999996, "http://cs.genieessp-a.com/", 2.2733802, "http://cs.genieesspv.jp/", 2.2733802, "http://d.gssp-a.com/", 2.2733802, "http://d.href.asia/", 3.924981199999999, "http://static.affiliate.rakuten.co.jp/", 2.2733802, "http://sync.mathtag.com/", 2.2733802, "http://y.one.impact-ad.jp/", 2.6037003999999997 ] ], [ "http://ld.send.microad.jp/", [ "http://send.microad.jp/", 0.6421007555487322 ] ], [ "http://naldzgraphics.net/", [ "http://badge.stumbleupon.com/", 1.5617189435841379, "http://log.pinterest.com/", 1.5617189435841379, "http://naldzgraphics.net/", 1.5617189435841379, "http://pagead2.googlesyndication.com/", 1.788635371284397, "http://passets.pinterest.com/", 1.5617189435841379, "http://s3.buysellads.com/", 2.469384654385175, "http://sjc-login.dotomi.com/", 1.788635371284397, "http://stats.buysellads.com/", 2.015551798984657, "https://apis.google.com/", 2.015551798984657, "https://www.facebook.com/", 1.5617189435841379 ] ], [ "http://p4-dwrqbal2mde7w-r5ouwtivmc5sfsfu-if-v6exp3-v4.metric.gstatic.com/", [ "http://p4-dwrqbal2mde7w-r5ouwtivmc5sfsfu-if-v6exp3-v4.metric.gstatic.com/", 1.6545901963366785 ] ], [ "http://p4-ef4kh2dix67la-52222ppljccr4472-if-v6exp3-v4.metric.gstatic.com/", [ "http://p4-ef4kh2dix67la-52222ppljccr4472-if-v6exp3-v4.metric.gstatic.com/", 2.1457765990453503 ] ], [ "http://platform.twitter.com/", [ "http://cdn.api.twitter.com/", 0.5695373241411685, "https://cdn.api.twitter.com/", 0.5695373241411685, "https://twitter.com/", 0.7085970772629392 ] ], [ "http://plugins.mixi.jp/", [ "http://img.mixi.net/", 1.1036748561512666 ] ], [ "http://s3.buysellads.com/", [ "http://ad.doubleclick.net/", 0.2963320466070792, "http://assets.servedby-buysellads.com/", 1.1787409952626282, "http://cdn.buysellads.com/", 0.8844615044399321, "http://pagead2.googlesyndication.com/", 0.2963320466070792, "http://s0.2mdn.net/", 0.2963320466070792, "http://srv.buysellads.com/", 1.1787409952626282, "http://www.gstatic.com/", 0.2963320466070792 ] ], [ "http://spnet2-1.i-mobile.co.jp/", [ "http://spcdnpc.i-mobile.co.jp/", 0.9103789587143744, "http://spnet2-1.i-mobile.co.jp/", 0.8201762814311265 ] ], [ "http://spnet33.i-mobile.co.jp/", [ "http://spcdnpc.i-mobile.co.jp/", 0.9111348912734009, "http://spnet33.i-mobile.co.jp/", 0.5567525650145289 ] ], [ "http://static.affiliate.rakuten.co.jp/", [ "http://dynamic.rakuten.co.jp/", 0.8583490589403685, "http://grp01.ashiato.rakuten.co.jp/", 0.8583490589403685, "http://imp.pt.afl.rakuten.co.jp/", 0.8583490589403685, "http://log.affiliate.rakuten.co.jp/", 0.8583490589403685, "http://mtwidget01.affiliate.rakuten.co.jp/", 0.8583490589403685, "http://static.affiliate.rakuten.co.jp/", 2.3483959434558734, "http://thumbnail.image.rakuten.co.jp/", 7.778916693011768 ] ], [ "http://sync.fout.jp/", [ "http://s.kau.li/", 0.7213928905609799 ] ], [ "http://widget.zenback.jp/", [ "http://stats.g.doubleclick.net/", 1.684271043190916 ] ], [ "http://www.austlii.edu.au/", [ "http://www.austlii.edu.au/", 2.5908675964518446 ] ], [ "http://www.bbc.co.uk/", [ "http://emp.bbci.co.uk/", 1.841050066682858, "http://news.bbc.co.uk/", 1.6074840134469732, "http://news.bbcimg.co.uk/", 6.74593718463644, "http://node1.bbcimg.co.uk/", 1.6074840134469732, "http://static.bbci.co.uk/", 2.775314279626398, "https://ssl.live.bbc.co.uk/", 1.6074840134469732 ] ], [ "http://www.bbc.com/", [ "http://ad.doubleclick.net/", 2.308182173154628, "http://emp.bbci.co.uk/", 1.841050066682858, "http://googleads.g.doubleclick.net/", 1.6074840134469732, "http://news.bbcimg.co.uk/", 10.4829940364106, "http://node1.bbcimg.co.uk/", 2.541748226390513, "http://open.live.bbc.co.uk/", 1.841050066682858, "http://pagead2.googlesyndication.com/", 2.0746161199187436, "http://static.bbci.co.uk/", 4.176710599041706, "http://stats.bbc.co.uk/", 1.6074840134469732, "http://www.googletagservices.com/", 1.6074840134469732 ] ], [ "http://www.filebot.net/", [ "http://coinwidget.com/", 2.6138943008368893, "http://googleads.g.doubleclick.net/", 2.9081737916595856, "http://platform.twitter.com/", 2.025335319191497, "http://static.ak.facebook.com/", 2.025335319191497, "http://themes.googleusercontent.com/", 2.025335319191497, "http://www.facebook.com/", 2.025335319191497, "http://www.filebot.net/", 7.910925135645418, "https://apis.google.com/", 2.9081737916595856, "https://s-static.ak.facebook.com/", 2.025335319191497, "https://www.facebook.com/", 2.025335319191497 ] ], [ "http://www.nxworld.net/", [ "http://a.disquscdn.com/", 2.1457765990453503, "http://go.disqus.com/", 2.4575561048895462, "http://googleads.g.doubleclick.net/", 2.7693356107337426, "http://links.services.disqus.com/", 2.1457765990453503, "http://nxworld.disqus.com/", 2.1457765990453503, "http://pagead2.googlesyndication.com/", 3.0811151165779385, "http://themes.googleusercontent.com/", 2.7693356107337426, "http://www.gstatic.com/", 2.1457765990453503, "http://www.nxworld.net/", 22.72322398476229, "https://apis.google.com/", 2.7693356107337426 ] ], [ "http://www.ohloh.net/", [ "http://www.ohloh.net/", 2.025335319191497 ] ], [ "http://www.reddit.com/", [ "http://ajax.googleapis.com/", 0.8844615044399321, "http://buttons.reddit.com/", 1.1787409952626282, "http://www.reddit.com/", 2.9701757445432837 ] ], [ "http://www.rhymezone.com/", [ "http://ajax.googleapis.com/", 2.6667911402137294, "http://googleads.g.doubleclick.net/", 2.127083409456189, "http://pagead2.googlesyndication.com/", 2.6667911402137294, "http://platform.twitter.com/", 2.127083409456189, "http://www.rhymezone.com/", 2.396937274834959 ] ], [ "http://www.usupi.org/", [ "http://ecx.images-amazon.com/", 5.385652655082963, "http://ir-jp.amazon-adsystem.com/", 1.432094001465243, "http://ws-fe.amazon-adsystem.com/", 5.385652655082963, "http://www.amazon.co.jp/", 1.432094001465243, "http://www.google-analytics.com/", 1.6401760358661757, "http://www.usupi.org/", 5.177570620682031, "http://www13.a8.net/", 1.432094001465243, "http://www17.a8.net/", 1.432094001465243, "http://www23.a8.net/", 1.6401760358661757, "http://z-ecx.images-amazon.com/", 1.8482580702671088 ] ], [ "http://www.webupd8.org/", [ "http://disqus.com/", 2.025335319191497, "http://googleads.g.doubleclick.net/", 2.6138943008368893, "http://pagead2.googlesyndication.com/", 2.025335319191497, "http://static.ak.facebook.com/", 2.025335319191497, "http://stats.buysellads.com/", 2.319614810014193, "http://www.google.com/", 6.694493378087473, "http://www.webupd8.org/", 3.496732773304977, "https://accounts.google.com/", 2.025335319191497, "https://apis.google.com/", 4.379571245773065, "https://s-static.ak.facebook.com/", 2.025335319191497 ] ], [ "http://www.wookmark.com/", [ "http://ajax.googleapis.com/", 0.8780938392666711, "http://assets.wookmark.com/", 1.281182441228794, "http://edge.quantserve.com/", 0.8780938392666711, "http://images4.wookmark.com/", 8.536777276547003, "http://pixel.quantserve.com/", 0.8780938392666711, "http://www.google-analytics.com/", 0.8780938392666711, "http://www.wookmark.com/", 2.490448247115162 ] ], [ "http://www.youtube.com/", [ "http://i1.ytimg.com/", 0.8852398720052841, "http://s.ytimg.com/", 2.852686475272428, "http://www.google.com/", 0.8155931980961885 ] ], [ "http://yads.yahoo.co.jp/", [ "http://i.yimg.jp/", 2.2733802, "http://im.c.yimg.jp/", 2.6037003999999997 ] ], [ "https://49.docs.google.com/", [ "https://49.docs.google.com/", 2.19995404076968 ] ], [ "https://59.docs.google.com/", [ "https://59.docs.google.com/", 2.1830953118307836 ] ], [ "https://94.docs.google.com/", [ "https://94.docs.google.com/", 1.8499112893399365 ] ], [ "https://accounts.google.com/", [ "https://accounts.youtube.com/", 0.0688273188714322, "https://oauth.googleusercontent.com/", 0.8849024302281759, "https://ssl.gstatic.com/", 0.8711289372148749, "https://themes.googleusercontent.com/", 0.07882786947668302 ] ], [ "https://ads.yahoo.com/", [ "https://ads.yahoo.com/", 1.8950007376847426, "https://content-ssl.yieldmanager.com/", 1.6545901963366785 ] ], [ "https://api.twitter.com/", [ "https://abs.twimg.com/", 2.319895074633376, "https://pbs.twimg.com/", 1.0728368526960674 ] ], [ "https://apis.google.com/", [ "https://apis.google.com/", 1.627711319368615, "https://ssl.gstatic.com/", 0.23718525526142653 ] ], [ "https://apps.twitter.com/", [ "https://apps.twitter.com/", 1.6480704246791869, "https://g.twimg.com/", 4.071179373396695, "https://pbs.twimg.com/", 1.0422931874998105, "https://platform.twitter.com/", 2.4052919711534066, "https://ssl.google-analytics.com/", 2.4052919711534066 ] ], [ "https://dev.twitter.com/", [ "https://a248.e.akamai.net/", 1.0422931874998105, "https://dev.twitter.com/", 1.799514733974031, "https://ping.chartbeat.net/", 1.1937374967946544, "https://platform.twitter.com/", 1.0422931874998105, "https://ssl.google-analytics.com/", 1.0422931874998105 ] ], [ "https://github.com/", [ "https://avatars0.githubusercontent.com/", 1.967674022654115, "https://collector-cdn.github.com/", 1.967674022654115, "https://collector.githubapp.com/", 1.967674022654115, "https://github.com/", 1.967674022654115, "https://github.global.ssl.fastly.net/", 3.6830821449679587, "https://raw.github.com/", 1.967674022654115, "https://raw.githubusercontent.com/", 1.967674022654115, "https://ssl.google-analytics.com/", 2.2535753763730892 ] ], [ "https://public-api.wordpress.com/", [ "https://accounts.google.com/", 2.087359645153039, "https://apis.google.com/", 1.684271043190916, "https://s0.wp.com/", 1.684271043190916 ] ], [ "https://twitter.com/", [ "https://abs.twimg.com/", 1.799514733974031, "https://ssl.google-analytics.com/", 1.1937374967946544 ] ], [ "https://widgets.getpocket.com/", [ "https://d7x5nblzs94me.cloudfront.net/", 1.9903106263587869 ] ], [ "https://www.facebook.com/", [ "https://fbcdn-profile-a.akamaihd.net/", 16.05385130786683, "https://fbstatic-a.akamaihd.net/", 1.0490741690813294, "https://scontent-a.xx.fbcdn.net/", 1.0705114392898865, "https://scontent-b.xx.fbcdn.net/", 2.2086570657060003 ] ], [ "https://www.google.co.jp/", [ "https://www.google.co.jp/", 1.8954152393070107 ] ], [ "https://www.google.com/", [ "https://apis.google.com/", 0.21328185468309355, "https://ssl.gstatic.com/", 0.21328185468309355, "https://www.google.com/", 0.43020955303598346, "https://www.gstatic.com/", 0.21328185468309355 ] ], [ "https://www.youtube.com/", [ "https://r2---sn-ogueyn7z.googlevideo.com/", 1.7798197616470612, "https://s.youtube.com/", 1.2395173340042036, "https://s.ytimg.com/", 2.8604246169327765, "https://yt3.ggpht.com/", 1.2395173340042036 ] ] ],
+      "startup_list": [ 1, "http://b.hatena.ne.jp/", "http://blog-imgs-31-origin.fc2.com/", "http://blog-imgs-35-origin.fc2.com/", "http://blog-imgs-54-origin.fc2.com/", "http://blog-imgs-58-origin.fc2.com/", "http://blog-imgs-67-origin.fc2.com/", "http://blogroll.livedoor.net/", "http://fonts.googleapis.com/", "http://katuru2ch.blog12.fc2.com/", "https://ajax.googleapis.com/" ]
    },
    "extensions": {
       "alerts": {
@@ -50,13 +50,16 @@
       },
       "autoupdate": {
          "last_check": "13038710931484285",
-         "next_check": "13041835263034139"
+         "next_check": "13043425916947308"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
       },
+      "commands": {
+
+      },
       "known_disabled": [  ],
-      "last_chrome_version": "34.0.1847.116",
+      "last_chrome_version": "34.0.1847.132",
       "settings": {
          "ahfgeienlihckogmohjhadlkjgocpleb": {
             "active_permissions": {
@@ -471,6 +474,52 @@
             },
             "was_installed_by_default": false
          },
+         "mfffpogegjflfpflabcdkioaeobkgjik": {
+            "active_permissions": {
+               "api": [ "tabs", "webRequest", "webRequestInternal" ],
+               "explicit_host": [ "\u003Call_urls>", "chrome://favicon/*" ],
+               "manifest_permissions": [  ],
+               "scriptable_host": [ "\u003Call_urls>" ]
+            },
+            "content_settings": [  ],
+            "creation_flags": 1,
+            "events": [  ],
+            "from_bookmark": false,
+            "from_webstore": false,
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "initial_keybindings_set": true,
+            "install_time": "13043059884813291",
+            "location": 5,
+            "manifest": {
+               "background": {
+                  "scripts": [ "background.js", "channel.js" ]
+               },
+               "content_scripts": [ {
+                  "all_frames": true,
+                  "js": [ "channel.js", "desktop_injected.js" ],
+                  "matches": [ "\u003Call_urls>" ]
+               } ],
+               "content_security_policy": "default-src 'self'; script-src 'self'; frame-src *; style-src 'self' 'unsafe-inline'",
+               "description": "GAIA Component Extension",
+               "key": "MIGdMA0GCSqGSIb3DQEBAQUAA4GLADCBhwKBgQC4L17nAfeTd6Xhtx96WhQ6DSr8KdHeQmfzgCkieKLCgUkWdwB9G1DCuh0EPMDn1MdtSwUAT7xE36APEzi0X/UpKjOVyX8tCC3aQcLoRAE0aJAvCcGwK7qIaQaczHmHKvPC2lrRdzSoMMTC5esvHX+ZqIBMi123FOL0dGW6OPKzIwIBIw==",
+               "manifest_version": 2,
+               "name": "GaiaAuthExtension",
+               "permissions": [ "\u003Call_urls>", "tabs", "webRequest" ],
+               "version": "0.0.1",
+               "web_accessible_resources": [ "main.css", "main.html", "main.js", "util.js" ]
+            },
+            "path": "/opt/google/chrome/resources/gaia_auth",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
+            "was_installed_by_default": false
+         },
          "neajdppkdcdipfabeoofebfddakdcjhd": {
             "active_permissions": {
                "api": [ "systemPrivate", "ttsEngine" ],
@@ -752,6 +801,27 @@
    "net": {
       "http_server_properties": {
          "servers": {
+            "2.bp.blogspot.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "3.bp.blogspot.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "4.bp.blogspot.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "49.docs.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -797,6 +867,9 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
+               "settings": {
+                  "4": 100
+               },
                "supports_spdy": true
             },
             "ad.doubleclick.net:80": {
@@ -806,12 +879,28 @@
                },
                "supports_spdy": false
             },
+            "ajax.googleapis.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
             "ajax.googleapis.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
                },
                "supports_spdy": false
+            },
+            "analytics.twitter.com:443": {
+               "supports_spdy": true
+            },
+            "api.facebook.com:443": {
+               "supports_spdy": true
             },
             "api.twitter.com:443": {
                "supports_spdy": true
@@ -831,6 +920,13 @@
             },
             "apps.twitter.com:443": {
                "supports_spdy": true
+            },
+            "bid.g.doubleclick.net:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
             },
             "buttons.googlesyndication.com:80": {
                "alternate_protocol": {
@@ -904,6 +1000,26 @@
                },
                "supports_spdy": true
             },
+            "encrypted-tbn0.gstatic.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "encrypted-tbn1.gstatic.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
             "encrypted-tbn3.gstatic.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -922,6 +1038,13 @@
                "supports_spdy": true
             },
             "fbcmd.dtompkins.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "feedproxy.google.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
@@ -973,6 +1096,26 @@
                },
                "supports_spdy": false
             },
+            "lh4.googleusercontent.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "lh5.googleusercontent.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
             "linkhelp.clients.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -1005,6 +1148,13 @@
                "supports_spdy": false
             },
             "p4-dwrqbal2mde7w-r5ouwtivmc5sfsfu-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-ef4kh2dix67la-52222ppljccr4472-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
@@ -1089,6 +1239,13 @@
             "scontent-b.xx.fbcdn.net:443": {
                "supports_spdy": true
             },
+            "segment-pixel.invitemedia.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "ssl.google-analytics.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -1127,6 +1284,9 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
                },
                "supports_spdy": true
             },
@@ -1169,6 +1329,9 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
+               "settings": {
+                  "4": 100
+               },
                "supports_spdy": true
             },
             "www.google.com:443": {
@@ -1190,6 +1353,12 @@
                },
                "supports_spdy": false
             },
+            "www.googleapis.com:443": {
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
             "www.googletagservices.com:80": {
                "alternate_protocol": {
                   "port": 80,
@@ -1205,6 +1374,13 @@
                "supports_spdy": true
             },
             "www.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "www.webupd8.org:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
@@ -1258,7 +1434,7 @@
       "startup_urls_migration_time": "13037613533936215"
    },
    "sync_promo": {
-      "startup_count": 7
+      "startup_count": 8
    },
    "translate_accepted_count": {
       "ja": 0
