@@ -1,0 +1,16 @@
+[Data Source]
+DisplayName=machibitokita@yahoo.co.jp
+Enabled=false
+Parent=1397998596.17139.0@znatz-Aspire-V3-571
+
+[Mail Identity]
+Address=machibitokita@yahoo.co.jp
+Name=znatz
+Organization=
+ReplyTo=
+SignatureUid=none
+
+[Mail Submission]
+SentFolder=
+TransportUid=1397998596.17139.3@znatz-Aspire-V3-571
+RepliesToOriginFolder=false

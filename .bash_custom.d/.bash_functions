@@ -84,7 +84,8 @@ unpackme(){
         	echo "Unpacking bz2";
         	bzip2 -d $fn;;
         *.tar.xz)
-        	echo "Unpacking tar.xz";;
+        	echo "tar -xf $fn";
+		tar -xf $fn;;
         *.7z)
         	echo "Unpacking 7z";
 		7z x $fn;;

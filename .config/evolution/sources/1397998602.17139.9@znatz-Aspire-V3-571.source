@@ -1,0 +1,17 @@
+[Data Source]
+DisplayName=z.nat.cn@gmail.com
+Enabled=false
+Parent=1397998602.17139.6@znatz-Aspire-V3-571
+
+[Mail Transport]
+BackendName=smtp
+
+[Authentication]
+Host=smtp-mail.outlook.com
+Method=XOAUTH2
+Port=587
+RememberPassword=true
+User=z.nat.cn@gmail.com
+
+[Security]
+Method=starttls-on-standard-port

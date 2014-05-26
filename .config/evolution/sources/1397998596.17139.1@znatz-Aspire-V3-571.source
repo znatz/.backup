@@ -1,0 +1,43 @@
+[Data Source]
+DisplayName=machibitokita@yahoo.co.jp
+Enabled=false
+Parent=1397998596.17139.0@znatz-Aspire-V3-571
+
+[Offline]
+StaySynchronized=false
+
+[Authentication]
+Host=imap.mail.yahoo.com
+Method=none
+Port=993
+RememberPassword=true
+User=machibitokita@yahoo.co.jp
+
+[Mail Account]
+BackendName=imapx
+IdentityUid=1397998596.17139.2@znatz-Aspire-V3-571
+
+[Security]
+Method=ssl-on-alternate-port
+
+[Imapx Backend]
+FilterInbox=true
+BatchFetchCount=500
+CheckAll=false
+CheckSubscribed=false
+FetchOrder=ascending
+FilterAll=false
+FilterJunk=false
+FilterJunkInbox=false
+MobileMode=false
+Namespace=
+RealJunkPath=
+RealTrashPath=
+ShellCommand=ssh -C -l %u %h exec /usr/sbin/imapd
+UseIdle=false
+UseNamespace=false
+UseQresync=false
+UseRealJunkPath=false
+UseRealTrashPath=false
+UseShellCommand=false
+UseSubscriptions=false

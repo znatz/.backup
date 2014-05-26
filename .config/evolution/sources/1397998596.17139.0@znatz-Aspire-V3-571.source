@@ -1,0 +1,14 @@
+[Data Source]
+DisplayName=machibitokita@yahoo.co.jp
+Enabled=true
+Parent=
+
+[Ubuntu Online Accounts]
+AccountId=6
+
+[Collection]
+BackendName=yahoo
+CalendarEnabled=false
+ContactsEnabled=true
+Identity=machibitokita@yahoo.co.jp
+MailEnabled=false

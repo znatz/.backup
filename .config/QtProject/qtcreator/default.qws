@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorSession>
+<!-- Written by QtCreator 3.0.1, 2014-04-16T00:10:01. -->
+<qtcreator>
+ <data>
+  <variable>Color</variable>
+  <value type="QString">#666666</value>
+ </data>
+ <data>
+  <variable>EditorSettings</variable>
+  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNAAAAAQAAABkAC8AaABvAG0AZQAvAHoAbgBhAHQAegAvAFEAdAAvADUALgAyAC4AMQAvAGcAYwBjAF8ANgA0AC8AaQBuAGMAbAB1AGQAZQAvAFEAdABDAG8AcgBlAC8AcQBjAGgAYQByAC4AaAAAAAwAAAAAHAAAAAEAAAAAAAAAAAAAADIAAAAAAAAAAQAAAAAAAABaAC8AaABvAG0AZQAvAHoAbgBhAHQAegAvAFAARwByAG8AdQBuAGQALwBDAC8AcQB0AF8AcwBhAG0AcABsAGUALwBxAHQAXwBzAGEAbQBwAGwAZQAuAHAAcgBvAAAADAAAAAAYAAAAAQAAAAAAAAAAAAAADAAAAAAAAAAAAAAAWgAvAGgAbwBtAGUALwB6AG4AYQB0AHoALwBQAEcAcgBvAHUAbgBkAC8AQwAvAHEAdABfAHMAYQBtAHAAbABlAC8AcQB0AF8AcwBhAG0AcABsAGUALgBjAHAAcAAAAAwAAAAAGAAAAAEAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAFYALwBoAG8AbQBlAC8AegBuAGEAdAB6AC8AUABHAHIAbwB1AG4AZAAvAEMALwBxAHQAXwBzAGEAbQBwAGwAZQAvAHEAdABfAHMAYQBtAHAAbABlAC4AYwAAAAwAAAAAGAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAIAAABaAC8AaABvAG0AZQAvAHoAbgBhAHQAegAvAFAARwByAG8AdQBuAGQALwBDAC8AcQB0AF8AcwBhAG0AcABsAGUALwBxAHQAXwBzAGEAbQBwAGwAZQAuAGMAcABwAAAAGgBxAHQAXwBzAGEAbQBwAGwAZQAuAGMAcABwAAAAE0NwcEVkaXRvci5DKytFZGl0b3IAAABaAC8AaABvAG0AZQAvAHoAbgBhAHQAegAvAFAARwByAG8AdQBuAGQALwBDAC8AcQB0AF8AcwBhAG0AcABsAGUALwBxAHQAXwBzAGEAbQBwAGwAZQAuAHAAcgBvAAAAGgBxAHQAXwBzAGEAbQBwAGwAZQAuAHAAcgBvAAAAEVF0NC5wcm9GaWxlRWRpdG9yAAAAtQAAAA1jdXJyZW50ZWRpdG9yAAAAWgAvAGgAbwBtAGUALwB6AG4AYQB0AHoALwBQAEcAcgBvAHUAbgBkAC8AQwAvAHEAdABfAHMAYQBtAHAAbABlAC8AcQB0AF8AcwBhAG0AcABsAGUALgBjAHAAcAAAACYAQwBwAHAARQBkAGkAdABvAHIALgBDACsAKwBFAGQAaQB0AG8AcgAAABgAAAABAAAAAAAAAAAAAAALAAAAAAAAAAA=</value>
+ </data>
+ <data>
+  <variable>ProjectDependencies</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>ProjectList</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">/home/znatz/PGround/C/qt_sample/qt_sample.pro</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>StartupProject</variable>
+  <value type="QString">/home/znatz/PGround/C/qt_sample/qt_sample.pro</value>
+ </data>
+ <data>
+  <variable>value-ActiveMode</variable>
+  <value type="QString">Edit</value>
+ </data>
+ <data>
+  <variable>value-Breakpoints</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>value-DebuggerToolTips</variable>
+  <value type="QString"></value>
+ </data>
+ <data>
+  <variable>value-DefaultFormats</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>value-ProjectTree.ExpandData</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>value-Watchers</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>valueKeys</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">ActiveMode</value>
+   <value type="QString">Breakpoints</value>
+   <value type="QString">DebuggerToolTips</value>
+   <value type="QString">DefaultFormats</value>
+   <value type="QString">ProjectTree.ExpandData</value>
+   <value type="QString">Watchers</value>
+  </valuelist>
+ </data>
+</qtcreator>

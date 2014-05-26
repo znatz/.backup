@@ -1,0 +1,17 @@
+[Data Source]
+DisplayName=machibitokita@yahoo.co.jp
+Enabled=false
+Parent=1397998596.17139.0@znatz-Aspire-V3-571
+
+[Mail Transport]
+BackendName=smtp
+
+[Authentication]
+Host=smtp.mail.yahoo.com
+Method=none
+Port=465
+RememberPassword=true
+User=machibitokita@yahoo.co.jp
+
+[Security]
+Method=ssl-on-alternate-port

@@ -1,0 +1,14 @@
+[Data Source]
+DisplayName=z.nat.cn@gmail.com
+Enabled=true
+Parent=
+
+[Ubuntu Online Accounts]
+AccountId=4
+
+[Collection]
+BackendName=outlook
+CalendarEnabled=true
+ContactsEnabled=true
+Identity=9b51c65d54e0f163
+MailEnabled=false
